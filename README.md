@@ -5,5 +5,5 @@ In order to run the web-app on your system first download all the files and stor
 Next go to that folder and run cmd from that folder.
 Now install the required libraries(using pip install "library name"). The library names have been listed in the begining of the code.
 Next type
-<pre>streamlit run app.py
+<pre>streamlit run app.py<\pre>
 and the website will automatically open in a localhost.
